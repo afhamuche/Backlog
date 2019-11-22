@@ -1,0 +1,11 @@
+/Users/April16/MSVB/Backlog/obj/Debug/netcoreapp2.2/Backlog.csprojAssemblyReference.cache
+/Users/April16/MSVB/Backlog/obj/Debug/netcoreapp2.2/Backlog.csproj.CoreCompileInputs.cache
+/Users/April16/MSVB/Backlog/obj/Debug/netcoreapp2.2/Backlog.AssemblyInfoInputs.cache
+/Users/April16/MSVB/Backlog/obj/Debug/netcoreapp2.2/Backlog.AssemblyInfo.cs
+/Users/April16/MSVB/Backlog/bin/Debug/netcoreapp2.2/Backlog.deps.json
+/Users/April16/MSVB/Backlog/bin/Debug/netcoreapp2.2/Backlog.runtimeconfig.json
+/Users/April16/MSVB/Backlog/bin/Debug/netcoreapp2.2/Backlog.runtimeconfig.dev.json
+/Users/April16/MSVB/Backlog/bin/Debug/netcoreapp2.2/Backlog.dll
+/Users/April16/MSVB/Backlog/bin/Debug/netcoreapp2.2/Backlog.pdb
+/Users/April16/MSVB/Backlog/obj/Debug/netcoreapp2.2/Backlog.dll
+/Users/April16/MSVB/Backlog/obj/Debug/netcoreapp2.2/Backlog.pdb
